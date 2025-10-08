@@ -64,6 +64,14 @@ For supplementary reading and deeper understanding:
 
 1.  **MACHINE LEARNING** by **ETHEM ALPAYDIN**, MIT Press
 
+### Data and Supplementary Material
+
+Access the datasets, lecture notes, and other supplementary files here:
+
+* **Google Drive Link:** [LOG NOTES->](https://drive.google.com/drive/folders/1BAqJLdMl_oR1eNUwX1EiV_7qYiT7hXcs?usp=drive_link)
+
+***
+
 ---
 
 ## 🛠️ Setup and Usage
