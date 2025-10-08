@@ -79,7 +79,7 @@ To run the practicals in this repository, you will typically need the following 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/supervisedLearning.git](https://github.com/your-username/supervisedLearning.git)
+    git clone [https://github.com/alensomaxx/supervisedLearning.git](https://github.com/alensomaxx/supervisedLearning.git)
     cd supervisedLearning
     ```
 
