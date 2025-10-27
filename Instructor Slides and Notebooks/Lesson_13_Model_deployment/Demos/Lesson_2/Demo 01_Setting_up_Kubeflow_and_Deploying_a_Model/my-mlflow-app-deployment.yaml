@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-mlflow-app-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: my-mlflow-app
+  template:
+    metadata:
+      labels:
+        app: my-mlflow-app
+    spec:
+      containers:
+      - name: my-mlflow-app
+        image: your-docker-username/my-mlflow-app:latest
+        ports:
+        - containerPort: 80
